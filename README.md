@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiaqi Zhou
 - 👀 I’m interested in business analytics and data science
-- 🌱 I’m currently learning advanced statistics, big data analytics and machine learning at UC Davis Graduate School of Management
+- 🌱 I took advanced statistics, big data analytics and machine learning courses at UC Davis Graduate School of Management
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: jqizhou@ucdavis.edu
 
